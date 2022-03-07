@@ -1,0 +1,13 @@
+C:\Users\joshu\source\repos\FFMPEG video downscaler ui\bin\Debug\FFMPEG video downscaler ui.exe.config
+C:\Users\joshu\source\repos\FFMPEG video downscaler ui\bin\Debug\FFMPEG video downscaler ui.exe
+C:\Users\joshu\source\repos\FFMPEG video downscaler ui\bin\Debug\FFMPEG video downscaler ui.pdb
+C:\Users\joshu\source\repos\FFMPEG video downscaler ui\obj\Debug\FFMPEG_video_downscaler_ui.Form1.resources
+C:\Users\joshu\source\repos\FFMPEG video downscaler ui\obj\Debug\FFMPEG_video_downscaler_ui.Properties.Resources.resources
+C:\Users\joshu\source\repos\FFMPEG video downscaler ui\obj\Debug\FFMPEG video downscaler ui.csproj.GenerateResource.cache
+C:\Users\joshu\source\repos\FFMPEG video downscaler ui\obj\Debug\FFMPEG video downscaler ui.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\FFMPEG video downscaler ui\obj\Debug\FFMPEG video downscaler ui.exe
+C:\Users\joshu\source\repos\FFMPEG video downscaler ui\obj\Debug\FFMPEG video downscaler ui.pdb
+C:\Users\joshu\source\repos\FFMPEG video downscaler ui\bin\Debug\FFMPEG video downscaler ui.exe.manifest
+C:\Users\joshu\source\repos\FFMPEG video downscaler ui\bin\Debug\FFMPEG video downscaler ui.application
+C:\Users\joshu\source\repos\FFMPEG video downscaler ui\obj\Debug\FFMPEG video downscaler ui.exe.manifest
+C:\Users\joshu\source\repos\FFMPEG video downscaler ui\obj\Debug\FFMPEG video downscaler ui.application
